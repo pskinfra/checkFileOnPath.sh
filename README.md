@@ -1,1 +1,1 @@
-# checkFileOnPath.sh
+checkSendFileOnPath.sh
