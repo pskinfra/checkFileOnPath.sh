@@ -1,0 +1,1 @@
+# checkFileOnPath.sh
